@@ -41,8 +41,7 @@ This project utilizes the following technologies and libraries:
    ```
 
 ## Environment Variables
-
-    Create a `.env` file in the root directory of your project with the following content:
+Create a `.env` file in the root directory of your project with the following content:
 
     ```bash
     MONGO_URI = yourmongodburl
@@ -59,7 +58,7 @@ This project utilizes the following technologies and libraries:
 
 2. Verify the Server
 
-   Open your browser and navigate to `http://localhost:3000` or use Postman to interact with the API.
+Open your browser and navigate to `http://localhost:3000` or use Postman to interact with the API.
 
 ## API Endpoints
 
