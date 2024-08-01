@@ -148,7 +148,7 @@ Open your browser and navigate to `http://localhost:3000` or use Postman to inte
 
 ## Contributing
 
-    Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
+Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
 
 ## License
 
